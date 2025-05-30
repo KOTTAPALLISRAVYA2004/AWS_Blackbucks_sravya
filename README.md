@@ -40,5 +40,3 @@ To host a basic static HTML website using Amazon S3 and learn about AWS S3 bucke
 </body>
 </html>
 
-
-image.png
