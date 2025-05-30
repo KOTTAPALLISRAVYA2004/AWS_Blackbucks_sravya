@@ -17,7 +17,7 @@ To host a basic static HTML website using Amazon S3 and learn about AWS S3 bucke
 5. Added a bucket policy to allow public read access to the files.
 6. Accessed the website via the public endpoint provided by S3.
 
-## 🌐 Website URL
+## Website URL
 [https://awsblackbucks.s3.ap-south-1.amazonaws.com/index.html](https://awsblackbucks.s3.ap-south-1.amazonaws.com/index.html)
 
 ## Screenshot
